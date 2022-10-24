@@ -1,4 +1,3 @@
 # GNeuralNet 
 
-A Windows C++ implementation of Neural Networks (GoogiNet).
-
+An opensource Windows C++ (.dll) implementation of Neural Networks (GoogiNet) 
